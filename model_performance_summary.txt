@@ -15,26 +15,30 @@ Learning Rate: 0.01
 Epochs: 100
 Linear Regression: MSE=169.1832, R2=0.7932
 DNN-16: MSE=nan, R2=nan
-DNN-30-8: MSE=818.5687, R2=-0.0004
+DNN-30-8: MSE=818.4876, R2=-0.0003
 DNN-30-16-8: MSE=nan, R2=nan
-DNN-30-16-8-4: MSE=818.5687, R2=-0.0004
+DNN-30-16-8-4: MSE=nan, R2=nan
 **************************************************
 
 Model Performance Summary:
 Learning Rate: 0.001
 Epochs: 100
 Linear Regression: MSE=173.4099, R2=0.7881
-DNN-16: MSE=145.7462, R2=0.8219
-DNN-30-8: MSE=818.2869, R2=-0.0001
-DNN-30-16-8: MSE=818.2869, R2=-0.0001
-DNN-30-16-8-4: MSE=818.2873, R2=-0.0001
+DNN-16: MSE=136.5483, R2=0.8331
+DNN-30-8: MSE=818.2865, R2=-0.0001
+DNN-30-16-8: MSE=nan, R2=nan
+DNN-30-16-8-4: MSE=1541356635.5030, R2=-1883733.2292
 **************************************************
 
 Model Performance Summary:
 Learning Rate: 0.0001
 Epochs: 100
 Linear Regression: MSE=191.7801, R2=0.7656
-DNN-16: MSE=183.1691, R2=0.7761
-DNN-30-8: MSE=135.6949, R2=0.8342
-DNN-30-16-8: MSE=141.8245, R2=0.8267
-DNN-30-16-8-4: MSE=168.9080, R2=0.7936
+DNN-16: MSE=183.2482, R2=0.7760
+DNN-30-8: MSE=143.6963, R2=0.8244
+DNN-30-16-8: MSE=144.8876, R2=0.8229
+DNN-30-16-8-4: MSE=199.8329, R2=0.7558
+Best Linear Regression model saved as 'saved_models/best_linear_model.pkl'
+Best Linear Regression R2: 0.7932365177610621
+Best DNN model saved as 'saved_models/best_dnn_model.h5'
+Best DNN R2: 0.8331206153351547
