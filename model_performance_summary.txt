@@ -1,0 +1,40 @@
+**************************************************
+
+Model Performance Summary:
+Learning Rate: 0.1
+Epochs: 100
+Linear Regression: MSE=3454924968513975812620288.0000, R2=-4222358585038829780992.0000
+DNN-16: MSE=nan, R2=nan
+DNN-30-8: MSE=820.6148, R2=-0.0029
+DNN-30-16-8: MSE=nan, R2=nan
+DNN-30-16-8-4: MSE=nan, R2=nan
+**************************************************
+
+Model Performance Summary:
+Learning Rate: 0.01
+Epochs: 100
+Linear Regression: MSE=169.1832, R2=0.7932
+DNN-16: MSE=nan, R2=nan
+DNN-30-8: MSE=818.5687, R2=-0.0004
+DNN-30-16-8: MSE=nan, R2=nan
+DNN-30-16-8-4: MSE=818.5687, R2=-0.0004
+**************************************************
+
+Model Performance Summary:
+Learning Rate: 0.001
+Epochs: 100
+Linear Regression: MSE=173.4099, R2=0.7881
+DNN-16: MSE=145.7462, R2=0.8219
+DNN-30-8: MSE=818.2869, R2=-0.0001
+DNN-30-16-8: MSE=818.2869, R2=-0.0001
+DNN-30-16-8-4: MSE=818.2873, R2=-0.0001
+**************************************************
+
+Model Performance Summary:
+Learning Rate: 0.0001
+Epochs: 100
+Linear Regression: MSE=191.7801, R2=0.7656
+DNN-16: MSE=183.1691, R2=0.7761
+DNN-30-8: MSE=135.6949, R2=0.8342
+DNN-30-16-8: MSE=141.8245, R2=0.8267
+DNN-30-16-8-4: MSE=168.9080, R2=0.7936

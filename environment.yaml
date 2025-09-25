@@ -1,0 +1,8 @@
+name: dl-hw1
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - tensorflow
+  - scikit-learn
+  - pandas 
